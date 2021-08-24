@@ -2,7 +2,7 @@
 
 ### Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm dongryun
 
-### junior ???? Developer 🚀 from Korea
+### Junior Backend Developer 🚀 from Korea
 
 ### 🔭 I’m currently working on [FukuokaFinancialGroup](https://www.fukuokabank.co.jp) in japan
 
