@@ -4,7 +4,7 @@
 
 ### Junior Backend Developer 🚀 from Korea
 
-### 🔭 I’m currently working on [FukuokaFinancialGroup](https://www.fukuokabank.co.jp) in japan
+### 🔭 I’m currently working on [empty]() in japan
 
 <br/>
 
