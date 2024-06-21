@@ -40,8 +40,8 @@
 </div>
 
 #### Linguistic ability
-- Korea: mother tongue
-- Japan: Confident in conversation but immature at reading and writing
+- Korean: mother tongue
+- Japanese: Confident in conversation and reading but immature at writing
 - English: reading and writing is normal but inexperienced conversation
 
 <hr/>
