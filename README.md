@@ -25,17 +25,20 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="50" height="50">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' width="50" height="50">
 </div>
-<div class="tech-stack4" style="margin-bottom: 1rem">
+<div class="tech-stack4">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+</div>
+<div class="tech-stack5" style="margin-bottom: 1rem">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="50" height="50">
 </div>
 
 #### ETC
-<div class="tech-stack5" style="margin-bottom: 1rem">
+<div class="tech-stack6" style="margin-bottom: 1rem">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="50" height="50">
 </div>
 
 #### Communication
-<div class="tech-stack6" style="margin-bottom: 1rem">
+<div class="tech-stack7" style="margin-bottom: 1rem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
 </div>
