@@ -36,8 +36,8 @@
 
 #### Communication
 <div class="tech-stack6" style="margin-bottom: 1rem">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg' width="50" height="50">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
 </div>
 
 #### Linguistic ability
