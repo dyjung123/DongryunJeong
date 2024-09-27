@@ -41,7 +41,7 @@
 
 #### Linguistic ability
 - Korean: mother tongue
-- Japanese: Confident in conversation and reading but immature at writing
+- Japanese: Confident in conversation and reading but immature at handwriting
 - English: reading and writing is normal but inexperienced conversation
 
 <hr/>
