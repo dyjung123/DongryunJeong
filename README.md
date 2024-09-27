@@ -35,6 +35,7 @@
 #### ETC
 <div class="tech-stack6" style="margin-bottom: 1rem">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width="50" height="50"/>
 </div>
 
 #### Communication
