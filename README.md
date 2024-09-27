@@ -30,6 +30,7 @@
 </div>
 <div class="tech-stack5" style="margin-bottom: 1rem">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50"/>
 </div>
 
 #### ETC
